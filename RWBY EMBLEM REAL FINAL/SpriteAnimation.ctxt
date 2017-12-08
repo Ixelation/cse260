@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=imageView\ duration\ count\ columns\ offsetX\ offsetY\ width\ height
+comment0.target=SpriteAnimation(javafx.scene.image.ImageView,\ javafx.util.Duration,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=k
+comment1.target=void\ interpolate(double)
+numComments=2

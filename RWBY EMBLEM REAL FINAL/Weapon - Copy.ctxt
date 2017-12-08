@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=might\ hit\ weight\ crit\ melee\ ranged\ name
+comment0.target=Weapon(int,\ int,\ int,\ int,\ boolean,\ boolean,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weapon\r\n
+comment1.params=
+comment1.target=int\ getWeight()
+comment1.text=\r\n\ Method\ for\ retrieving\ weight\ of\ a\ weapon\ for\ use\ in\ battle\ calculations.\ \r\n
+comment2.params=
+comment2.target=int\ getHit()
+comment2.text=\r\n\ Method\ for\ retrieving\ hit\ of\ a\ weapon\ for\ use\ in\ battle\ calculations.\r\n
+comment3.params=
+comment3.target=int\ getMight()
+comment3.text=\r\n\ Method\ for\ retrieving\ might\ of\ a\ weapon\ for\ battle\ calculations.\r\n
+comment4.params=
+comment4.target=int\ getCrit()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=boolean\ isMelee()
+comment7.params=
+comment7.target=boolean\ isRanged()
+numComments=8

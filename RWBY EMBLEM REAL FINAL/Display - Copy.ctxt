@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=stage
+comment0.target=void\ start(javafx.stage.Stage)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment1.params=stage
+comment1.target=javafx.scene.Scene\ splashScreen(javafx.stage.Stage)
+comment10.params=unit\ enemy
+comment10.target=int\ damage(Unit,\ Unit)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=player
+comment3.target=void\ fadeMusic(javafx.scene.media.MediaPlayer)
+comment4.params=stage
+comment4.target=javafx.scene.Scene\ mapScreen(javafx.stage.Stage)
+comment5.params=isMelee\ isRanged\ mov\ x\ y\ board\ buttons\ mapGrid
+comment5.target=void\ showRange(boolean,\ boolean,\ int,\ int,\ int,\ Board,\ javafx.scene.control.Button[][],\ javafx.scene.layout.GridPane)
+comment6.params=isMelee\ isRanged\ mov\ x\ y\ board\ buttons\ mapGrid
+comment6.target=void\ showEnemyRange(boolean,\ boolean,\ int,\ int,\ int,\ Board,\ javafx.scene.control.Button[][],\ javafx.scene.layout.GridPane)
+comment7.params=unit\ view\ name\ wep\ hp\ str\ mag\ skl\ spd\ lck\ def\ res
+comment7.target=void\ setSidePanel(Unit,\ javafx.scene.image.ImageView,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label)
+comment8.params=left\ view\ name\ wep\ hp\ str\ mag\ skl\ spd\ lck\ def\ res
+comment8.target=void\ setSidePanel(boolean,\ javafx.scene.image.ImageView,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label,\ javafx.scene.control.Label)
+comment9.params=unit\ eops
+comment9.target=void\ attackGUI(Unit,\ java.util.ArrayList)
+numComments=12
